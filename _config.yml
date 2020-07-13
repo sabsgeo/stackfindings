@@ -1,0 +1,19 @@
+title:              Stack Findings Blog
+email:              sabugeorge.mec@gmail.com
+description:        Things I learned with time
+author:             Sabu George
+
+# Social Profiles
+github_username: sabsgeo
+linkedin_username: sabu-george-1495a467
+
+# Add your google-analytics ID here to activate google analytics
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
